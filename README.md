@@ -10,4 +10,5 @@ Feel free to reach out with any comments/suggestions!
 
 # Authors
 Oriol Reig Fité (oriol.reigfite@unitn.it)
+
 Daniele Taufer (daniele.taufer@gmail.com)
